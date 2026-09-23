@@ -4,12 +4,7 @@ import io
 # --------------------------------------------------
 # SAFE IMPORT
 # --------------------------------------------------
-try:
-    from generator import generate_image
-except ImportError:
-    st.error("❌ `generator.py` not found. Please make sure it exists in the same folder.")
-    st.stop()
-
+from generator import generate_image
 
 # --------------------------------------------------
 # PAGE CONFIG
