@@ -35,7 +35,7 @@ st.markdown(
     width: 100%;
     padding-top: 2rem;
     padding-bottom: 3rem;
-    padding-left: 2rem;
+    padding-left: 3rem;
     padding-right: 2rem;
    }
     .main-title {
