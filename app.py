@@ -144,6 +144,46 @@ st.markdown(
         color: white !important;
         border-radius: 12px !important;
     }
+    /* --------------------------------------------------
+   MOBILE RESPONSIVE DESIGN
+-------------------------------------------------- */
+
+@media (max-width: 768px) {
+
+    .block-container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-top: 1rem;
+    }
+
+    .main-title {
+        font-size: 2.2rem;
+        line-height: 1.2;
+    }
+
+    .subtitle {
+        font-size: 0.95rem;
+        padding: 0 10px;
+    }
+
+    .glass-card {
+        padding: 18px;
+        border-radius: 18px;
+    }
+
+    .profile-card {
+        padding: 20px;
+    }
+
+    .profile-name {
+        font-size: 1.3rem;
+    }
+
+    .profile-role {
+        font-size: 0.9rem;
+    }
+
+}
     </style>
     """,
     unsafe_allow_html=True
