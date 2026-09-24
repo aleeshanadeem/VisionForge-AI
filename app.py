@@ -31,11 +31,13 @@ st.markdown(
     }
 
     .block-container {
-        max-width: 1250px;
-        padding-top: 2rem;
-        padding-bottom: 3rem;
-    }
-
+    max-width: 1450px;
+    width: 100%;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+   }
     .main-title {
         text-align: center;
         font-size: 3.2rem;
