@@ -172,7 +172,7 @@ if "last_prompt" not in st.session_state:
 # --------------------------------------------------
 # THREE COLUMN LAYOUT
 # --------------------------------------------------
-left_col, center_col, right_col = st.columns([1.1, 2.8, 1.2], gap="large")
+left_col, center_col, right_col = st.columns([1.1, 4.0, 1.4], gap="medium")
 
 
 # ==================================================
