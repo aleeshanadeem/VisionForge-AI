@@ -3,7 +3,8 @@
 ### Turn Your Imagination into Images with Generative AI
 
 <p align="center">
-  <img src="assets/visionforge-ai.png" alt="VisionForge AI" width="100%">
+  <img src="![Uploading ChatGPT Image Sep 24, 2026, 09_45_06 AM.png…]()
+" width="100%">
 </p>
 
 **VisionForge AI** is an AI-powered text-to-image application that transforms natural language prompts into visually creative images.
