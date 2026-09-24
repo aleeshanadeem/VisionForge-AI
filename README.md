@@ -3,7 +3,7 @@
 ### Turn Your Imagination into Images with Generative AI
 
 
-![125 Days of Consistency](<img width="1254" height="1254" alt="ChatGPT Image Sep 24, 2026, 09_45_06 AM" src="https://github.com/user-attachments/assets/450a5e44-acf1-4d61-9d16-aabab93c1375" />
+![](<img width="1254" height="1254" alt="ChatGPT Image Sep 24, 2026, 09_45_06 AM" src="https://github.com/user-attachments/assets/450a5e44-acf1-4d61-9d16-aabab93c1375" />
 )
 
 **VisionForge AI** is an AI-powered text-to-image application that transforms natural language prompts into visually creative images.
