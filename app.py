@@ -84,13 +84,13 @@ st.markdown(
     }
 
     .glass-card {
-        background: rgba(15, 23, 42, 0.70);
-        border: 1px solid rgba(148, 163, 184, 0.15);
-        border-radius: 20px;
-        padding: 25px;
-        margin-bottom: 20px;
-        box-shadow: 0 10px 35px rgba(0, 0, 0, 0.25);
-    }
+    background: rgba(15, 23, 42, 0.72);
+    border: 1px solid rgba(96, 165, 250, 0.18);
+    border-radius: 22px;
+    padding: 28px;
+    margin-bottom: 20px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.28);
+   }
 
     .section-title {
         font-size: 1.2rem;
